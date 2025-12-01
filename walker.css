@@ -1,0 +1,22 @@
+#window {
+    background-color: #0B0C16;
+    color: #EEF1F5;
+    border: 2px solid #FFD700;
+    border-radius: 12px;
+}
+
+#input {
+    background: #1A1C2E;
+    color: #EEF1F5;
+    border-bottom: 2px solid #4DBEDF;
+}
+
+#list {
+    background: transparent;
+}
+
+.item.active {
+    background: #4DBEDF;
+    color: #0B0C16;
+    border-radius: 8px;
+}

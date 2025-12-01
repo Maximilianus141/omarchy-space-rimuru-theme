@@ -1,0 +1,18 @@
+window {
+    background: #0B0C16;
+    border: 2px solid #4DBEDF;
+    border-radius: 10px;
+}
+
+#container {
+    margin: 10px;
+    background: #1A1C2E;
+}
+
+progress {
+    background: #1A1C2E;
+}
+
+progress::-moz-progress-bar {
+    background: #FFD700; 
+}
