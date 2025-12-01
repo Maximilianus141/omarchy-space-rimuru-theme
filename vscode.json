@@ -1,0 +1,10 @@
+{
+    "workbench.colorCustomizations": {
+        "editor.background": "#0B0C16",
+        "sideBar.background": "#1A1C2E",
+        "statusBar.background": "#4DBEDF",
+        "statusBar.foreground": "#0B0C16",
+        "editorCursor.foreground": "#FFD700",
+        "focusBorder": "#4DBEDF"
+    }
+}

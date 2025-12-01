@@ -1,0 +1,25 @@
+@define-color background #0B0C16;
+@define-color surface    #1A1C2E;
+@define-color primary    #4DBEDF;
+@define-color secondary  #FFD700;
+@define-color text       #EEF1F5;
+
+* {
+    font-family: "JetBrainsMono Nerd Font", Roboto, sans-serif;
+    border: none;
+    border-radius: 0;
+}
+
+window#waybar {
+    background-color: @background;
+    color: @text;
+    border-bottom: 2px solid @primary;
+}
+
+#workspaces button.active {
+    color: @background;
+    background-color: @primary;
+    border-radius: 12px;
+}
+
+#clock { color: @secondary; font-weight: bold; }
